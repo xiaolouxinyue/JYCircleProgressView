@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "JYCircleProgressView"
-  s.version      = "0.1"
+  s.version      = "0.2"
   s.summary      = "带渐变色的圆形进度条"
   s.homepage     = "https://github.com/xiaolouxinyue/JYCircleProgressView"
   s.license      = { :type => "MIT", :file => "LICENSE" }
