@@ -10,10 +10,10 @@
 
 @interface JYCircleProgressView : UIView
 
-@property (nonatomic, assign) NSInteger trackLineWidth;
+@property (nonatomic, assign) CGFloat trackLineWidth;
 @property (nonatomic, strong) UIColor *trackLineColor;
 
-@property (nonatomic, assign) NSInteger progressLineWidth;
+@property (nonatomic, assign) CGFloat progressLineWidth;
 @property (nonatomic, strong) UIColor *progressLineColor;
 
 @property (nonatomic, copy) NSArray *progressColorArray;
